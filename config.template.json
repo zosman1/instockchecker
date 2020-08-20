@@ -1,0 +1,12 @@
+{
+    "websites": [
+        {
+            "url": "https://github.myshopify.com/collections/shirts/products/invertocat-2-0",
+            "searchPhrase": "unavailable",
+            "notificationMessage": "Github has shirt!"
+        }
+    ],
+    "notificationInfo": {
+        "email": "foo@bar.qux"
+    }
+}
